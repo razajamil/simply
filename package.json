@@ -1,8 +1,12 @@
 {
-  "name": "sympli",
+  "name": "sympli-tech-test",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Raza Jamil"
+  },
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
